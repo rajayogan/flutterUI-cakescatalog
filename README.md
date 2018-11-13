@@ -1,8 +1,12 @@
-# food_catalog
+# CakesCatalog_UI
 
-A new Flutter project.
+Screen design of a Bakery app using Flutter.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/5522098-Food-app-search-page-product-page/attachments
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+How do I code this - https://youtu.be/X6zmk2LfGf0
+
+## Screenshots
+
+![sht](https://user-images.githubusercontent.com/8137504/48430583-a89ffa00-e795-11e8-9c55-8c8a4145e17e.png)
+![sht2](https://user-images.githubusercontent.com/8137504/48430637-c40b0500-e795-11e8-8806-8bb7c8c7e9c9.png)
